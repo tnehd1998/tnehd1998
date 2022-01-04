@@ -1,4 +1,4 @@
-<h3 align="center">안녕하세요! 꿈꾸는 개발자 이수동입니다 👻</h3>
+<h3 align="center">안녕하세요! 삶을 개선하는 개발자 이수동입니다 👻</h3>
 
 <h3 align="center">🧑🏻‍💻 Tech Stack</h3>
 
